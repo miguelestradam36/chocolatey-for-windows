@@ -1,5 +1,11 @@
 # Chocolatey quick tip
 
+## How to
+
+### Open Powershell under administrative priviliges
+
+In case you are having problems doing the following task, please direct to: [Powershell: How to run as administrator from GUI](Powershell.md)
+
 ## Security
 
 ### More secure request
